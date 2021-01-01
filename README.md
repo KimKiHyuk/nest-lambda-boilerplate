@@ -34,7 +34,7 @@ $ yarn install
 ```
 
 ## Running the app
-* You have to configure you aws conn with aws configure
+* You have to configure your aws conn with aws configure
 * please export aws_access_key_id and aws_secret_access_key
 ```bash
 # development
